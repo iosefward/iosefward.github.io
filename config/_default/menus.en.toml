@@ -1,0 +1,24 @@
+# -- Main Menu --
+# Displayed in the header. Ordered by weight (low -> high).
+
+[[main]]
+  name = "About / CV"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Gallery"
+  pageRef = "gallery"
+  weight = 20
+
+# -- Footer Menu --
+
+[[footer]]
+  name = "About / CV"
+  pageRef = "about"
+  weight = 10
+
+[[footer]]
+  name = "Gallery"
+  pageRef = "gallery"
+  weight = 20

@@ -1,0 +1,24 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Iosef Ward"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  description = "Personal site of Iosef Ward — portfolio, CV, and painted miniatures."
+
+[params.author]
+  name = "Dr. Joseph Ward"
+  # image = "img/author.jpg" # add a photo at assets/img/author.jpg to show on the profile homepage
+  headline = "Senior Infrastructure Engineer — cloud, governance & resilience"
+  bio = "Cloud infrastructure engineer turned governance and resilience lead, with a background in bioinformatics. Award-winning miniature painter."
+  links = [
+    { email = "mailto:joe@iosefward.co.uk" },
+    { linkedin = "https://www.linkedin.com/in/iosefward" },
+    # { github = "https://github.com/YOUR_USERNAME" }, # fill in once known
+  ]

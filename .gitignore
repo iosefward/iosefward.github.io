@@ -1,0 +1,11 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# Hugo module/cache
+hugo_cache/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
