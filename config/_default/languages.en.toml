@@ -20,5 +20,6 @@ title = "Iosef Ward"
   links = [
     { email = "mailto:joe@iosefward.co.uk" },
     { linkedin = "https://www.linkedin.com/in/iosefward" },
+    { instagram = "https://instagram.com/iosefward" },
     # { github = "https://github.com/YOUR_USERNAME" }, # fill in once known
   ]

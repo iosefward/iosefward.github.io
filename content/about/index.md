@@ -139,3 +139,4 @@ protein–protein binding prediction.
 
 - Email: [joe@iosefward.co.uk](mailto:joe@iosefward.co.uk)
 - LinkedIn: [linkedin.com/in/iosefward](https://www.linkedin.com/in/iosefward)
+- Instagram: [@iosefward](https://instagram.com/iosefward)
