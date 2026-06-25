@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Iosef Ward"
+title = "iosefward"
 
 [params]
   displayName = "EN"

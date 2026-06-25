@@ -1,4 +1,4 @@
 +++
-title = "Iosef Ward"
+title = "iosefward"
 description = "Portfolio, CV, and painted miniatures."
 +++
