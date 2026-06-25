@@ -30,19 +30,22 @@ solutions.
 ### Senior Infrastructure Engineer — Datavant
 *2022 – present*
 
-My role focuses on infrastructure governance, resilience and compliance across
-the platform organisation. I built the organisation-wide Disaster Recovery
-programme from scratch — authoring plans, tracking DR coverage across teams and
+My role currently focuses on infrastructure governance, resilience and compliance
+across the platform organisation. I built the organisation-wide Disaster Recovery
+programme from scratch; authoring plans, tracking DR coverage across teams and
 running DR drills. I coordinate the platform organisation's responses to external
 audits across SOC 2 Type 2, ISO 27001, HITRUST i1 and FedRAMP, and coordinate
 vulnerability management and remediation across teams, alongside security
-controls, policy and access management.
+controls, policy and access management. Earlier in this role I also maintained
+the Privacy Hub environment concurrently; managing its infrastructure as code
+with Terraform and keeping it secure and SOC 2 and HITRUST compliant, before
+moving fully into the broader infrastructure governance role.
 
 ### DevOps Engineer — Privacy Hub by Datavant
 *2021 – 2022*
 
 Responsible for running, improving and maintaining the AWS environment for data
-scientists. Heavily involved in automating systems to allow data scientists
+scientists. Created an automated self-serve system to allow data scientists
 access to the resources they need while keeping the infrastructure and clients'
 data secure, as well as SOC 2 and ISO 27001 compliance, audits and security
 monitoring.
