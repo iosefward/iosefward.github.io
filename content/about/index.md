@@ -10,20 +10,17 @@ showTableOfContents = true
 
 ## About
 
-I am an intelligent and motivated individual with a keen eye for detail; a quick
-learner with a wide array of computing and statistical tools at my disposal. In
-recent years I have moved from hands-on cloud (AWS) infrastructure engineering
-into infrastructure governance and resilience, running organisation-wide
+I am an infrastructure engineer who has grown from hands-on cloud (AWS) work into
+infrastructure governance and resilience; running organisation-wide
 disaster-recovery, audit-response and vulnerability-management programmes for
 highly regulated, certified (SOC 2 Type 2, ISO 27001, HITRUST i1, FedRAMP)
 environments that handle sensitive health data.
 
-Both my earlier scientific career and my current work have involved finding
-creative solutions to data and infrastructure problems, and I have always had to
-be quick to respond to changing situations and adapt my work and priorities to
-suit, as well as managing multiple tasks and projects concurrently. I'm
-personable, and able to translate people's requirements into practical, secure
-solutions.
+Before that I spent a decade in genomics and bioinformatics, so I'm as
+comfortable with deep technical detail as with the wider picture. I'm personable
+and a quick learner, able to translate people's requirements into practical,
+secure solutions, and I'm at my best juggling multiple projects and adapting
+quickly when priorities shift.
 
 ## Experience
 
@@ -99,7 +96,7 @@ Investigating a mechanistic hypothesis for RNA polymerase II binding using an
 enrichment value for each gene based on read counts, applied to large amounts of
 ChIP-Seq data using linear models.
 
-### MRes Bioinformatics (Distinction — top of class) — University of Leeds
+### MRes Bioinformatics (Distinction; top of class) — University of Leeds
 *2007 – 2008*
 
 Dissertation: Consensus scores for optimising hot-spot prediction in
@@ -122,10 +119,6 @@ protein–protein binding prediction.
 - **Problem solving** — working with highly sensitive sequencing machines taught me how to identify non-obvious issues, including in areas outside my immediate expertise.
 - **System design** — designing systems to make large data sets accessible to both professionals and lay people.
 - **Adaptable** — I have stepped into laboratory work at short notice and taken it on with enthusiasm despite no prior training.
-
-## Certifications
-
-- AWS Certified Solutions Architect — Associate
 
 ## Publications
 
